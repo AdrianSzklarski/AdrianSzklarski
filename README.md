@@ -5,7 +5,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 My technologies in which I work:
 <br>
-![Static Badge](https://img.shields.io/badge/Python3%20-%20Python3?color=blue) ![Static Badge](https://img.shields.io/badge/Java%20Script%20-%20JS?color=yellow) ![Static Badge](https://img.shields.io/badge/C/C++%20-%20c/c++?color=blue)![Static Badge](https://img.shields.io/badge/Matlab/Simulink%20-%20matlab/simulink?color=orange)
+![Static Badge](https://img.shields.io/badge/Python3%20-%20Python3?color=blue) ![Static Badge](https://img.shields.io/badge/Java%20Script%20-%20JS?color=yellow) ![Static Badge](https://img.shields.io/badge/C/C++%20-%20c/c++?color=blue)! [Static Badge](https://img.shields.io/badge/Matlab/Simulink%20-%20matlab/simulink?color=orange)
 
 
 
