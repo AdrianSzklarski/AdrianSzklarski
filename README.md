@@ -1,6 +1,6 @@
 ###  Welcome, to my GitHub page :sunglasses:
 
-I'm Adrian, R&D and Soft Developer from Poland :poland:
+I'm Adrian, R&D and Soft Developer from Poland :poland:, currently I'm lining in Warsaw. 
 
 
 <!--
