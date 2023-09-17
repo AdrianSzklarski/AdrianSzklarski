@@ -1,5 +1,5 @@
 ###  Welcome, to my GitHub page :sunglasses:
-![alt text](/home/adrian/Obrazy/Zrzuty ekranu/Nie_usuwac_foto_do_readmemd/My_work_IT.png)
+
 
 I'm Adrian, R&D and Soft Developer from Poland :poland:, currently I'm lining in Warsaw. 
 
