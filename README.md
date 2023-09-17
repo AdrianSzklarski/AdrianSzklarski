@@ -12,7 +12,10 @@ My technologies in which I work:
 ![Static Badge](https://img.shields.io/badge/Django3%20-%20django?color=green) ![Static Badge](https://img.shields.io/badge/Flask%20-%20flask?color=lightblue)
  
 
-
+## Where to find me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szklarskiadrian/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://github.com/AdrianSzklarski)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szklarskiadrian/)
 
 
 <!--
