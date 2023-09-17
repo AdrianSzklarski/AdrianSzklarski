@@ -1,7 +1,7 @@
 ###  Welcome, to my GitHub page :sunglasses:
 ![My_work_IT](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/a566caf1-d32b-4575-a14d-7458915b56db)
 
-|-I'm Adrian, R&D and Soft Developer from Poland :poland:, currently I'm lining in Warsaw.-|
+<p style="text-align: center">I'm Adrian, R&D and Soft Developer from Poland :poland:, currently I'm lining in Warsaw.</p>
 
 My technologies in which I work:
 <br>
