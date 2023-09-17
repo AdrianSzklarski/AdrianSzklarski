@@ -3,8 +3,8 @@
 I'm Adrian, R&D and Soft Developer from Poland :poland:, currently I'm lining in Warsaw. 
 
 My technologies in which I work:
-<img align="left" alt="python3" src="[https://img.shields.io/badge/Python3-3](https://img.shields.io/badge/Python3%20-%20Python3?color=blue
-)"/>
+![Static Badge](https://img.shields.io/badge/Python3%20-%20Python3?color=blue)
+
 
 
 <!--
