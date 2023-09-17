@@ -2,6 +2,9 @@
 
 I'm Adrian, R&D and Soft Developer from Poland :poland:, currently I'm lining in Warsaw. 
 
+My technologies in which I work:
+:python:
+
 
 <!--
 **AdrianSzklarski/AdrianSzklarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
