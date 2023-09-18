@@ -22,6 +22,19 @@ My technologies:
 | -  	| d 	| f 	| g 	| s 	|
 
 
+| Programming languages 	| Frontend 	| Frame Work	| Databases 	| g 	| h 	|
+|---	|---	|---	|---	|---	|--- 
+
+
+
+
+
+
+
+
+
+
+
 
  
 
