@@ -4,6 +4,7 @@
 I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm lining in Warsaw.
 
 My technologies in which I work:
+<br>
 ![Static Badge](https://www.python.org/static/community_logos/python-powered-w-70x28.png) ![Static Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5) 
 
 
