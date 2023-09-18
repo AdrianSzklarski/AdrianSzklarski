@@ -16,7 +16,7 @@ My technologies:
 | ![Static Badge](https://img.shields.io/badge/-Matlab_/_Simulink-FFA116?style=for-the-badge&logo=Simulink&logoColor=black)                    	| ![Static Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)       	| --        	| --       	| -- 	| --    	| ![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)     	|  	|
 | ![Static Badge](https://img.shields.io/badge/Fortran_Lahey_95-543DE0?style=for-the-badge&logo=Fortran&logoColor=white)                   	| ![Static Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)      	| --        	| --       	| -- 	| --    	| ![Static Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)     	| -- 	|
 | --                   	| --      	| --        	| --       	| -- 	| --    	| ![Static Badge](https://img.shields.io/badge/API-lightblue?style=for-the-badge&logo=api&logoColor=white)                 	| -- 	|
-| --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
+| --                   	| --      	| --        	|        	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 | --                   	| --      	| --        	| --       	| -- 	| --    	| --    	| 
 
 
