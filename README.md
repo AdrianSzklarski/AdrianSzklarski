@@ -5,7 +5,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 My technologies in which I work:
 <br>
-![Static Badge](https://www.python.org/static/community_logos/python-logo-generic.svg)
+![Static Badge][(https://www.python.org/static/community_logos/python-logo-generic.svg)](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)
 <br>
 ![Static Badge](https://img.shields.io/badge/Python3%20-%20Python3?color=blue) ![Static Badge](https://img.shields.io/badge/Java%20Script%20-%20JS?color=yellow) ![Static Badge](https://img.shields.io/badge/C/C++%20-%20c/c++?color=blue)     ![Static Badge](https://img.shields.io/badge/Matlab/Simulink%20-%20matlab/simulink?color=orange) ![Static Badge](https://img.shields.io/badge/FortrnaLahey95%20-%20fortran?color=violet)
 <br>
