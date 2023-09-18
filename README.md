@@ -11,25 +11,25 @@ My technologies:
 
 | Programming languages 	| Frontend 	| Frame Work	| Databases 	| g 	| h 	|
 |---	|---	|---	|---	|---	|--- 
-| ![Static Badge](https://img.shields.io/badge/Python_3.10_(_up)-14354C?style=for-the-badge&logo=python&logoColor=white) 	| ![Static Badge](https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  	| ![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 	| ![Static Badge](https://img.shields.io/badge/PostgreSQL_&&_pgAdmin_4-316192?style=for-the-badge&logo=postgresql&logoColor=white) 	| s 	|
+|  	| ![Static Badge](https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  	| ![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 	| ![Static Badge](https://img.shields.io/badge/PostgreSQL_&&_pgAdmin_4-316192?style=for-the-badge&logo=postgresql&logoColor=white) 	| s 	|
 
-| ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)	| ![Static Badge](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 	| ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 	| ![Static Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 	| s 	|
+| 	| ![Static Badge](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 	| ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 	| ![Static Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 	| s 	|
 
-| ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 	| ![Static Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 	| f 	| g 	| s 	|
-| ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  	| ![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)	| f 	| g 	| s 	|
-| ![Static Badge](https://img.shields.io/badge/-Matlab_/_Simulink-FFA116?style=for-the-badge&logo=Simulink&logoColor=black) 	| ![Static Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 	| f 	| g 	| s 	|
-| ![Static Badge](https://img.shields.io/badge/Fortran_Lahey_95-543DE0?style=for-the-badge&logo=Fortran&logoColor=white)  	| ![Static Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 	| f 	| g 	| s 	|
+| 	| ![Static Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 	| f 	| g 	| s 	|
+|  	| ![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)	| f 	| g 	| s 	|
+| 	| ![Static Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 	| f 	| g 	| s 	|
+|  	| ![Static Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 	| f 	| g 	| s 	|
 | -  	| d 	| f 	| g 	| s 	|
 
 
 | Programming languages 	| Frontend 	| Frame Work 	| Databases 	| IDE 	| System 	| Others 	| --- 	|
 |-----------------------	|----------	|------------	|-----------	|-----	|--------	|--------	|-----	|
-| pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
-| pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
-| pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
-| pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
-| pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
-| pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
+| ![Static Badge](https://img.shields.io/badge/Python_3.10_(_up)-14354C?style=for-the-badge&logo=python&logoColor=white)                  	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
+| ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
+| ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
+| ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)                    	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
+| ![Static Badge](https://img.shields.io/badge/-Matlab_/_Simulink-FFA116?style=for-the-badge&logo=Simulink&logoColor=black)                    	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
+| ![Static Badge](https://img.shields.io/badge/Fortran_Lahey_95-543DE0?style=for-the-badge&logo=Fortran&logoColor=white)                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
 | pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
 | pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
 | pro                   	| fro      	| wor        	| dat       	| ide 	| sys    	| oth    	| --- 	|
