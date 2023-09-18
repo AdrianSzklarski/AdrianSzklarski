@@ -3,7 +3,7 @@
 
 I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm lining in Warsaw.
 
-My technologies in which I work:
+My technologies:
 <br>
 ![Static Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Static Badge](https://img.shields.io/badge/-Matlab/Simulink-FFA116?style=for-the-badge&logo=Simulink&logoColor=black) ![Static Badge](https://img.shields.io/badge/FortranLahey95-543DE0?style=for-the-badge&logo=Fortran&logoColor=white)
 <br>
