@@ -5,6 +5,8 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 My technologies in which I work:
 <br>
+https://img.shields.io/badge/[play-station-blue.svg?](https://www.python.org/static/community_logos/python-logo-generic.svg)
+<br>
 ![Static Badge](https://img.shields.io/badge/Python3%20-%20Python3?color=blue) ![Static Badge](https://img.shields.io/badge/Java%20Script%20-%20JS?color=yellow) ![Static Badge](https://img.shields.io/badge/C/C++%20-%20c/c++?color=blue)     ![Static Badge](https://img.shields.io/badge/Matlab/Simulink%20-%20matlab/simulink?color=orange) ![Static Badge](https://img.shields.io/badge/FortrnaLahey95%20-%20fortran?color=violet)
 <br>
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20html?color=orange) ![Static Badge](https://img.shields.io/badge/CSS%20-%20css?color=blue) ![Static Badge](https://img.shields.io/badge/SASS%20-%20sass?color=pink) ![Static Badge](https://img.shields.io/badge/React%20-%20react?color=lightblue) ![Static Badge](https://img.shields.io/badge/Redux%20-%20redux?color=violet) ![Static Badge](https://img.shields.io/badge/Bootstrap%20-%20bootstrap?color=violet)
