@@ -5,12 +5,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 My technologies in which I work:
 
-<br>
 
-<br>
-![Static Badge](https://img.shields.io/badge/HTML%20-%20html?color=orange) ![Static Badge](https://img.shields.io/badge/CSS%20-%20css?color=blue) ![Static Badge](https://img.shields.io/badge/SASS%20-%20sass?color=pink) ![Static Badge](https://img.shields.io/badge/React%20-%20react?color=lightblue) ![Static Badge](https://img.shields.io/badge/Redux%20-%20redux?color=violet) ![Static Badge](https://img.shields.io/badge/Bootstrap%20-%20bootstrap?color=violet)
-<br>
-![Static Badge](https://img.shields.io/badge/Django3%20-%20django?color=green) ![Static Badge](https://img.shields.io/badge/Flask%20-%20flask?color=lightblue)
  
 
 ## Where to find me
