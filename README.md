@@ -15,6 +15,7 @@ My technologies:
 <br>
 ![Static Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Static Badge](https://img.shields.io/badge/API-lightblue?style=for-the-badge&logo=api&logoColor=white)
 <br>
+<br>
 ![Static Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 <br>
 ![Static Badge](https://img.shields.io/badge/GitHub&Git-100000?style=for-the-badge&logo=github&logoColor=white) 
