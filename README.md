@@ -4,9 +4,12 @@
 I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm lining in Warsaw.
 
 My technologies in which I work:
-https://img.shields.io/npm/v/npm.svg?logo=npm
+![Static Badge](https://img.shields.io/badge/Python3%20-%20p?color=blue)
+![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+
+
+
  
 
 ## Where to find me
