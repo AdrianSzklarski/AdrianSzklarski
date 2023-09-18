@@ -11,7 +11,9 @@ My technologies in which I work:
 <br>
 ![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Static Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Static Badge]() 
 <br>
-![Static Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/-Linux-grey?logo=linux) 
+![Static Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=grey)
+
+
 
 
 
