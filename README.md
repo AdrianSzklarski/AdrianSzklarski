@@ -24,7 +24,7 @@ My technologies:
 
 | Programming languages 	| Frontend 	| Frame Work	| Databases 	| IDE       	| System    	| Others 	
 |---	|---	|---	|---	|---	|---	|---	
-|pro	|fro	|wor	|dat	|ide	|sys	|oth
+|pro	|fro	|wor	|dat	|ide	|sys	|oth	|
 
 |pro	|fro	|wor	|dat	|ide	|sys	|oth
 
