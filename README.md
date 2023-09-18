@@ -6,7 +6,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 My technologies in which I work:
 
 <br>
-![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Static Badge](https://img.shields.io/badge/Java%20Script%20-%20JS?color=yellow) ![Static Badge](https://img.shields.io/badge/C/C++%20-%20c/c++?color=blue)     ![Static Badge](https://img.shields.io/badge/Matlab/Simulink%20-%20matlab/simulink?color=orange) ![Static Badge](https://img.shields.io/badge/FortrnaLahey95%20-%20fortran?color=violet)
+![Static Badge]() ![Static Badge](https://img.shields.io/badge/Java%20Script%20-%20JS?color=yellow) ![Static Badge](https://img.shields.io/badge/C/C++%20-%20c/c++?color=blue)     ![Static Badge](https://img.shields.io/badge/Matlab/Simulink%20-%20matlab/simulink?color=orange) ![Static Badge](https://img.shields.io/badge/FortrnaLahey95%20-%20fortran?color=violet)
 <br>
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20html?color=orange) ![Static Badge](https://img.shields.io/badge/CSS%20-%20css?color=blue) ![Static Badge](https://img.shields.io/badge/SASS%20-%20sass?color=pink) ![Static Badge](https://img.shields.io/badge/React%20-%20react?color=lightblue) ![Static Badge](https://img.shields.io/badge/Redux%20-%20redux?color=violet) ![Static Badge](https://img.shields.io/badge/Bootstrap%20-%20bootstrap?color=violet)
 <br>
