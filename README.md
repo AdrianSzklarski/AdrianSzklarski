@@ -21,7 +21,7 @@ My technologies:
 ## Open source projects :door:
 <p><a href="https://www.Youtube.com/"><img src="![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/3e6305a0-5cf0-4181-b83d-862db981eb72)
 " style="width:50px;height:50px;"></a></p>
-[![Alt Text](![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/3e6305a0-5cf0-4181-b83d-862db981eb72)](http://google.com)
+[![Alt Text](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/3e6305a0-5cf0-4181-b83d-862db981eb72)](http://google.com)
 
 
 https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/28dbd2a0-3f55-47ed-9cbc-396e70646d81
