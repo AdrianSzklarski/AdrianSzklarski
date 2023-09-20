@@ -19,7 +19,7 @@ My technologies:
 | --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 
 ## Open source projects :door:
-[![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)
+[![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/adcfe29b-c383-4554-aa29-f4ddbe95cc69)](https://codecademy.com)
 
 
 
