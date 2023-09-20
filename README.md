@@ -25,6 +25,8 @@ My technologies:
 
 
 ## Projects without access to code :lock: 
+![155](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/6ecdb690-7eb6-40d3-821a-92132d2bd07a)
+
 
 ## My Programmes :computer:
 
