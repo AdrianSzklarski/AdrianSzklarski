@@ -19,12 +19,8 @@ My technologies:
 | --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 
 ## Open source projects :door:
-![image](/home/adrian/Pulpit/GitHub/About me/Porsche.png)
+![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/1dd640c4-6d64-4e26-ad53-270fd9dda38d)
 
-
-
-
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
 
 https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/28dbd2a0-3f55-47ed-9cbc-396e70646d81
 https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping
