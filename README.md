@@ -1,4 +1,4 @@
-###  Under Construction: ... Welcome, to my GitHub page :sunglasses:
+###  Welcome, to my GitHub page :sunglasses:
 ![My_work_IT](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/a566caf1-d32b-4575-a14d-7458915b56db)
 
 I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm lining in Warsaw.
@@ -19,6 +19,8 @@ My technologies:
 | --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 
 ## Open source projects :door:
+|![Zrzut ekranu z 2023-09-20 20-34-25](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/e4677b9f-aa44-44b3-859c-50d09fb439af) 	|----------	|------------	| 
+|-----------------------	|----------	|------------	|
 
 ## My latest posts/ articles :page_with_curl:
 
