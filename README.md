@@ -19,7 +19,8 @@ My technologies:
 | --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 
 ## Open source projects :door:
-|![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/ea878d93-090e-4040-aa30-ee91544fe0b4) |----------	|------------	| 
+|![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/ea878d93-090e-4040-aa30-ee91544fe0b4) |	![C19](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/ec71c28c-2ab9-4de2-8ee6-befa4e333f65) 
+
 |-----------------------	|----------	|------------	|
 
 ## My latest posts/ articles :page_with_curl:
