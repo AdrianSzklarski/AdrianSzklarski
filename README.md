@@ -34,7 +34,7 @@ My technologies:
 ## Aplications in progress :construction_worker:
 
 ## My latest posts/ articles :book:
-[![Static Badge](https://img.shields.io/badge/MyProject-C19?label=Covid19&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7042346473455288321/) 
+[![Static Badge](https://img.shields.io/badge/LinkedIn-C19?label=Covid19&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7042346473455288321/) 
 
 ## Where to find me :raising_hand:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szklarskiadrian/)
