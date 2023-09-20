@@ -20,7 +20,6 @@ My technologies:
 
 ## Open source projects :door:
 ![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/1dd640c4-6d64-4e26-ad53-270fd9dda38d)
-```markdown
 [Button Icon]: https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping
 
 
