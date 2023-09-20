@@ -19,10 +19,13 @@ My technologies:
 | --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 
 ## Open source projects :door:
-<p><a href="https://www.Youtube.com/"><img src="![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/3e6305a0-5cf0-4181-b83d-862db981eb72)
-" style="width:50px;height:50px;"></a></p>
-[![Porsche]((https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/925bcded-2c53-40ee-961a-76ee148c2785)
-)](http://google.com)
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &quot;Logo Title Text 1&quot;)
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &quot;Logo Title Text 2&quot;
 
 
 
