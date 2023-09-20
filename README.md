@@ -19,7 +19,8 @@ My technologies:
 | --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 
 ## Open source projects :door:
-![alt text](/home/adrian/Pulpit/GitHub/About me/Porsche.png "Porsche")
+![Porsche](/home/adrian/Pulpit/GitHub/About me/Porsche.png)
+
 
 
 
