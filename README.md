@@ -21,19 +21,12 @@ My technologies:
 ## Open source projects :door:
 ![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/1dd640c4-6d64-4e26-ad53-270fd9dda38d) ![C19](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/08aaca09-1454-4157-a825-781a1529e8a3) ![face](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/82f677c4-69ad-47c4-9f89-b6d7513c0a6d)
 
-
 &ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/%20%20MyProject%20%20-%20%20C19?label=Porsche&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping) &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp; [![Static Badge](https://img.shields.io/badge/MyProject-C19?label=Covid19&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT_Covid19) &ensp;&thinsp;&ensp;&thinsp;&ensp; [![Static Badge](https://img.shields.io/badge/MyProject%20-%20Face?label=FaceDET&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT_Face_Detection_AL)
-
-
 
 ## Projects without access to code :lock: 
 ![155](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/d7cd064e-a4fd-4000-b157-87b13ee84a6d) ![bomb](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/df55f243-c4c0-49aa-a2a3-d006731e4056)
 
-
 &ensp;&thinsp;&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/Matlab%20-%20155mm?label=Missile&labelColor=blue&color=yellow)](https://journals.pan.pl/dlibra/publication/131682/edition/115014/content/impact-point-prediction-guidance-parametric-study-for-155-mm-rocket-assisted-artillery-projectile-with-lateral-thrusters-szklarski-adrian-glebocki-robert-jacewicz-mariusz?language=en) &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/Matlab%20-%20155mm?label=BombUAV&labelColor=blue&color=yellow)](https://journals.pan.pl/dlibra/publication/124488/edition/108630/content/archive-of-mechanical-engineering-2018-vol-65-no-3-miniature-bomb-concept-for-unmanned-aerial-vehicles-jacewicz-mariusz-glebocki-robert-szklarski-adrian?language=en)
-
-
-
 
 
 ## My Programmes :computer:
@@ -41,6 +34,7 @@ My technologies:
 ## Aplications in progress :construction_worker:
 
 ## My latest posts/ articles :book:
+[![Static Badge](https://img.shields.io/badge/MyProject-C19?label=Covid19&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7042346473455288321/) 
 
 ## Where to find me :raising_hand:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szklarskiadrian/)
