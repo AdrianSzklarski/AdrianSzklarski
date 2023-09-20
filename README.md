@@ -21,7 +21,7 @@ My technologies:
 ## Open source projects :door:
 ![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/1dd640c4-6d64-4e26-ad53-270fd9dda38d) ![C19](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/08aaca09-1454-4157-a825-781a1529e8a3)
 
-&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/%20%20MyProject%20%20-%20%20C19?label=Porsche&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping) &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/MyProject-C19?label=Covid19&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT_Covid19)
+&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/%20%20MyProject%20%20-%20%20C19?label=Porsche&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping) &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/MyProject-C19?label=Covid19&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT_Covid19)
 
 
 
