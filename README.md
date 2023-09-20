@@ -19,7 +19,13 @@ My technologies:
 | --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 
 ## Open source projects :door:
-|[![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/28dbd2a0-3f55-47ed-9cbc-396e70646d81)]<a href="https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping" target="_blank" alt="Porsche"> |[![Alt Text]([http://image_url](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/28dbd2a0-3f55-47ed-9cbc-396e70646d81))]([http://google.com](https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping))
+|[![Alt Text](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/28dbd2a0-3f55-47ed-9cbc-396e70646d81)](https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping)
+
+https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/28dbd2a0-3f55-47ed-9cbc-396e70646d81
+
+
+
+https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping
 
 
 ## My latest posts/ articles :page_with_curl:
