@@ -27,6 +27,9 @@ My technologies:
 ## Projects without access to code :lock: 
 ![155](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/d7cd064e-a4fd-4000-b157-87b13ee84a6d)
 
+&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/MyProject%20-%20155mm?label=Missile&labelColor=blue&color=yellow)](https://journals.pan.pl/dlibra/publication/131682/edition/115014/content/impact-point-prediction-guidance-parametric-study-for-155-mm-rocket-assisted-artillery-projectile-with-lateral-thrusters-szklarski-adrian-glebocki-robert-jacewicz-mariusz?language=en)
+
+
 
 
 
