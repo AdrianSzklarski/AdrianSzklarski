@@ -20,11 +20,7 @@ My technologies:
 
 ## Open source projects :door:
 |![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/90f50150-0cf5-4af9-a38f-31a0946bb7f0)
- |![C19](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/69e8c13a-0c66-4691-9ae8-dead7fbc4562)
-
-
-
-|-----------------------	|----------	|------------	|
+ |![C19](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/d398d5eb-2726-4c07-9e82-a1878a221c3c)
 
 ## My latest posts/ articles :page_with_curl:
 
