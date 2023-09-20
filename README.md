@@ -24,14 +24,14 @@ My technologies:
 &ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/%20%20MyProject%20%20-%20%20C19?label=Porsche&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT__Prosche_OLX_scrapping) &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp; [![Static Badge](https://img.shields.io/badge/MyProject-C19?label=Covid19&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/Finished.PROJECT_Covid19)
 
 
+## Projects without access to code :lock: 
 
+## My Programmes :computer:
 
-## My Programmes:
+## Aplications in progress :construction_worker:
 
-## Aplications in progress:
+## My latest posts/ articles :book:
 
-## My latest posts/ articles:
-
-## Where to find me
+## Where to find me :raising_hand:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szklarskiadrian/)
 
