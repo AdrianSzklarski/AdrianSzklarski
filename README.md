@@ -19,7 +19,8 @@ My technologies:
 | --                   	| --      	| --        	| --       	| -- 	| --   	| ![Static Badge](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)     	| 
 
 ## Open source projects :door:
-<p><a href="https://www.Youtube.com/"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760872.png" style="width:50px;height:50px;"></a></p>
+<p><a href="https://www.Youtube.com/"><img src="![Porsche](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/3e6305a0-5cf0-4181-b83d-862db981eb72)
+" style="width:50px;height:50px;"></a></p>
 
 
 https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/28dbd2a0-3f55-47ed-9cbc-396e70646d81
