@@ -3,7 +3,7 @@
 
 I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm lining in Warsaw.
 <br><br>
-![Static Badge](https://img.shields.io/badge/Demo3%20-%20p?label=Button&labelColor=blue&color=yellow) - Buttons linking to projections/information. 
+![Static Badge](https://img.shields.io/badge/Demo3%20-%20p?label=Button&labelColor=blue&color=yellow) - - Buttons linking to projects/information.. 
 
 **My technologies:**
 <br>
