@@ -2,7 +2,7 @@
 ![My_work_IT](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/a566caf1-d32b-4575-a14d-7458915b56db)
 
 I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm lining in Warsaw.
-<br>
+<br><br>
 ![Static Badge](https://img.shields.io/badge/Demo3%20-%20p?label=Button&labelColor=blue&color=yellow) - Buttons linking to projections/information. 
 
 **My technologies:**
