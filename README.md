@@ -40,7 +40,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 
 ## My Programmes :computer:
-[![Static Badge](https://img.shields.io/badge/Python3%20-%20p?label=API&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/MyProgrammes/tree/main/API)[![Static Badge](https://img.shields.io/badge/Python3%20-%20p?label=TextGames&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/GAMES__Text_games)
+[![Static Badge](https://img.shields.io/badge/Python3%20-%20p?label=API&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/MyProgrammes/tree/main/API)&ensp;&thinsp;[![Static Badge](https://img.shields.io/badge/Python3%20-%20p?label=TextGames&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/GAMES__Text_games)
 
 
 
