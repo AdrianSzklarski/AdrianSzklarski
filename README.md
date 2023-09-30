@@ -45,6 +45,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 
 ## Aplications in progress :construction_worker:
+![Bin](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/3f7932ce-fb1d-444a-ad8b-61ecb71edfda)
 
 
 
