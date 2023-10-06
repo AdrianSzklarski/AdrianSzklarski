@@ -48,7 +48,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 ## Aplications in progress :construction_worker:
 |![Bin](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/345bcedf-7166-4ef2-af86-97941b17c054)|
 |---
-|&ensp;&thinsp;&ensp;&thinsp;[![Static Badge](https://img.shields.io/badge/*.*bin%20-%20p?label=bin&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/PROJECT_bin_File)|
+|&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;[![Static Badge](https://img.shields.io/badge/*.*bin%20-%20p?label=bin&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/PROJECT_bin_File)|
 
 
 
