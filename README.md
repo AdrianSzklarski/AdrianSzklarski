@@ -60,9 +60,9 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 
 ## My favorite YT channels
-|![Aleksander Huber](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/cd699b27-c878-46f0-b5da-9ec5114ddc94) |
-|---
-| &ensp; [![Static Badge](https://img.shields.io/badge/%20%20YT%20%20-%20%20AleksandarHaber?label=Aleksandar_Haber&labelColor=blue&color=yellow)](https://www.youtube.com/@aleksandarhaber) |
+| ![YT](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/2421f5f5-0d59-4113-b4b9-b9d64821487a) | ![Aleksander Huber](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/cd699b27-c878-46f0-b5da-9ec5114ddc94)|
+|--- |---
+| &ensp; [![Static Badge](https://img.shields.io/badge/%20%20YT%20%20-%20%20AleksandarHaber?label=Aleksandar_Haber&labelColor=blue&color=yellow)](https://www.youtube.com/c/RockYourEnglish)| &ensp; [![Static Badge](https://img.shields.io/badge/%20%20YT%20%20-%20%20AleksandarHaber?label=Aleksandar_Haber&labelColor=blue&color=yellow)](https://www.youtube.com/@aleksandarhaber) |
 
 
 
