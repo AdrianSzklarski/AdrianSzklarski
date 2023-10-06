@@ -61,7 +61,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 ## My favorite YT channels
 |![Aleksander Huber](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/cd699b27-c878-46f0-b5da-9ec5114ddc94) |
 |---
-| &ensp;&thinsp;&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/%20%20YT%20%20-%20%20Aleksandar_Haber?label=Porsche&labelColor=blue&color=yellow)](https://www.youtube.com/@aleksandarhaber) |
+| &ensp;&thinsp;&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/%20%20YT%20%20-%20%20AleksandarHaber?label=Porsche&labelColor=blue&color=yellow)](https://www.youtube.com/@aleksandarhaber) |
 
 
 
