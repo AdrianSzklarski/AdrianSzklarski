@@ -71,4 +71,5 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 ## Where to find me :raising_hand:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szklarskiadrian/)
 [![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://szklarskiadrian.wixsite.com/portfolio) &ensp;&thinsp;
-[![Static Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@szklarski.adrian)
+[![Static Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@szklarski.adrian);
+[![Static Badge](https://img.shields.io/badge/YouTube-12100E?style=for-the-badge&logo=Yt&logoColor=white)](https://www.youtube.com/@mrcoin4943)
