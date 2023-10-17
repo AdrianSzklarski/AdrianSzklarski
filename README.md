@@ -48,7 +48,7 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 ## Aplications in progress :construction_worker:
 |![Bin](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/345bcedf-7166-4ef2-af86-97941b17c054)|![Kosci](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/dc7d10b3-729a-4f1e-8a37-53f52bd6e578)|![YT](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/41d791fe-0f9f-4fdc-9678-e516b37a439b) |
 |--- |--- |--- |
-|&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;[![Static Badge](https://img.shields.io/badge/*.*bin%20-%20p?label=bin&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/PROJECT_bin_File)|[![Static Badge](https://img.shields.io/badge/Algorithms%20-%20p?label=Probablisitic&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/PROJECT_analysis_of_algorithms_using_probablisitic_models)|&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;[![Static Badge](https://img.shields.io/badge/YT%20-%20p?label=My_YouTube&labelColor=blue&color=yellow)](https://www.youtube.com/channel/UCGIwE8wGIL2Aq2jb4-_uvPQ)|  
+|&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;[![Static Badge](https://img.shields.io/badge/*.*bin%20-%20p?label=bin&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/PROJECT_bin_File)|[![Static Badge](https://img.shields.io/badge/Algorithms%20-%20p?label=Probablisitic&labelColor=blue&color=yellow)](https://github.com/AdrianSzklarski/PROJECT_analysis_of_algorithms_using_probablisitic_models)|&ensp;&thinsp;&ensp;&thinsp;&ensp;[![Static Badge](https://img.shields.io/badge/YT%20-%20p?label=My_YouTube&labelColor=blue&color=yellow)](https://www.youtube.com/channel/UCGIwE8wGIL2Aq2jb4-_uvPQ)|  
 
 
 
