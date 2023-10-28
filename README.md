@@ -74,4 +74,4 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 [![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://szklarskiadrian.wixsite.com/portfolio) &ensp;&thinsp;
 [![Static Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@szklarski.adrian) &ensp;&thinsp;
 [![Static Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGIwE8wGIL2Aq2jb4-_uvPQ) &ensp;&thinsp;
-[![Static Badge](https://img.shields.io/badge/BLOGGER-orange?style=for-the-badge&logo=G&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/BLOGGER-orange?style=for-the-badge&logo=G&logoColor=white)](https://practicalincode.blogspot.com/)
