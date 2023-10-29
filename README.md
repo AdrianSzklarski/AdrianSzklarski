@@ -32,9 +32,9 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 
 ## Projects I have participated in without access to the code :lock: 
-|&ensp;&thinsp;&ensp; ![YT1](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/90a1a09d-3ad1-4791-a0bd-7e197f684633) &thinsp; &ensp;&thinsp;|
+|&ensp; ![YT1](https://github.com/AdrianSzklarski/AdrianSzklarski/assets/87096333/90a1a09d-3ad1-4791-a0bd-7e197f684633) &thinsp; &ensp;&thinsp;|
 |------|
-|&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/Aplication%20-%20155mm?label=MyFirst&labelColor=blue&color=yellow)](https://www.youtube.com/watch?v=6XIp2WKZXe4)|
+|&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; [![Static Badge](https://img.shields.io/badge/Aplication%20-%20155mm?label=MyFirst&labelColor=blue&color=yellow)](https://www.youtube.com/watch?v=6XIp2WKZXe4)|
 
 
 
