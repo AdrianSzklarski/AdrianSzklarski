@@ -61,9 +61,9 @@ I'm **Adrian**, **R&D and Soft Developer** from Poland :poland:, currently I'm l
 
 
 ## My latest posts/ articles :book:
-[![Static Badge](https://img.shields.io/badge/LinkedIn-C19?label=Covid19&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7042346473455288321/) &ensp;  &ensp; [![Static Badge](https://img.shields.io/badge/LinkedIn-C19?label=Probabilistic&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:groupPost:101591-7118626908908531712/) &ensp;  &ensp; [![Static Badge](https://img.shields.io/badge/LinkedIn-C19?label=Physics_1&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7123513454702837761/) &ensp;  &ensp; [![Static Badge](https://img.shields.io/badge/Missile_1?label=Pytohn3&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7127730554552168448/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-C19?label=Covid19&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7042346473455288321/) &ensp;  &ensp; [![Static Badge](https://img.shields.io/badge/LinkedIn-C19?label=Probabilistic&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:groupPost:101591-7118626908908531712/) &ensp;  &ensp; [![Static Badge](https://img.shields.io/badge/LinkedIn-C19?label=Physics_1&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7123513454702837761/)  &ensp;  &ensp; [![Static Badge](https://img.shields.io/badge/LinkedIn-C19?label=Physics_1&labelColor=blue&color=green)](https://www.linkedin.com/feed/update/urn:li:activity:7123513454702837761/)
 
-
+https://www.linkedin.com/feed/update/urn:li:activity:7127730554552168448/
 
 
 ## My favorite YT channels :tv:
